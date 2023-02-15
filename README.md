@@ -2,7 +2,7 @@
 
 Thank you for your interest in Recipe Unlimited's engineering team. The purposes of this challenge is to assess your knowledge of VueJS and the web tech stack.
 
-You will we reviewed based on the following items:
+You will be reviewed based on the following items:
 - Installing and setting up this project (please have it setup and ready ahead of time)
 - Adding features to the VueJS project as per instructions given in our meeting.
 
