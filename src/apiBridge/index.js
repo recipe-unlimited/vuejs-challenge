@@ -2,7 +2,7 @@ import axios from 'axios';
 import Calls from './calls.js'
 import Helper from './helper.js'
 
-const API_URL = 'https://uatiosapi.swisschalet.com/CaraAPI';
+const API_URL = 'https://uat-aws-api.swisschalet.com/CaraAPI';
 axios.defaults.baseURL = API_URL;
 axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded';
 
